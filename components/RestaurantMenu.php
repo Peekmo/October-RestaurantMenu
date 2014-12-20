@@ -1,6 +1,6 @@
 <?php
 
-namespace Peekmo\RestaurantMenu\Components;
+namespace Peekmo\RsMenu\Components;
 
 class RestaurantMenu extends Cms\Classes\ComponentBase
 {

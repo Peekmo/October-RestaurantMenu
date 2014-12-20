@@ -1,6 +1,6 @@
 <?php
 
-namespace Peekmo\RestaurantMenu;
+namespace Peekmo\RsMenu;
 
 use Backend;
 
